@@ -40,7 +40,7 @@ public class BaeJ_10952 {
 			
 			// 그 외에는 결과값 출력
 			else {
-				bw.write(a - b + "\n");
+				bw.write(a + b + "\n");
 			}
 			
 		}
