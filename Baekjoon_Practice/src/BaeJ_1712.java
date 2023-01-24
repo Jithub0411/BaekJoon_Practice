@@ -8,7 +8,6 @@ public class BaeJ_1712 {
         int a,b;
         // c = 가격
         int c;
-        // 총 수입
 
         a = in.nextInt();
         b = in.nextInt();
